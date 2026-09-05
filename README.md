@@ -14,8 +14,6 @@ customer-experience decisions.
 
 ## Dashboard Preview
 
-Upload your dashboard screenshot to the repository as `dashboard.png`,
-then use:
 
 ``` markdown
 ![Quick Commerce Delivery Analysis Dashboard](Dashboard.jpg)
