@@ -12,13 +12,6 @@ The goal is to identify delivery-performance patterns and compare the
 three platforms to support data-driven operational and
 customer-experience decisions.
 
-## Dashboard Preview
-
-
-``` markdown
-![Quick Commerce Delivery Analysis Dashboard](Dashboard.jpg)
-```
-
 ## Key KPIs
 
 -   Total Orders
